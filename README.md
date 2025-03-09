@@ -17,3 +17,19 @@ Electric vehicles (EVs) are becoming increasingly popular, and this project delv
 ## Start the Development Server   
    npm run dev
    
+## 📊 Features
+- **Interactive Charts** – EV prices, trends, and market share
+- **EV Heatmap** – State-wise EV density
+- **Efficiency Leaderboard** – Best EVs by range per dollar
+- **Search & Filters** – Easily explore data
+
+## 🛠️ Tech Stack
+- **React.js** – Frontend framework
+- **Chart.js & Google Charts** – Data visualization
+- **Tailwind CSS** – Styling
+
+## 📜 License & Contribution
+This is an **open-source project**! Feel free to use, modify, and contribute.
+
+## 👨‍💻 Author
+**Bimal Gayali**
