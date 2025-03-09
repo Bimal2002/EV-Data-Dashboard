@@ -18,10 +18,17 @@ Electric vehicles (EVs) are becoming increasingly popular, and this project delv
    npm run dev
    
 ## 📊 Features
-- **Interactive Charts** – EV prices, trends, and market share
-- **EV Heatmap** – State-wise EV density
-- **Efficiency Leaderboard** – Best EVs by range per dollar
-- **Search & Filters** – Easily explore data
+- Search by Make or Model  
+- Top 10 EV Manufacturers  
+- EV Type Distribution  
+- EV Adoption Over the Years  
+- MSRP vs. Electric Range  
+- Top 10 Cities with Most EVs  
+- Top 5 Most Affordable Long-Range EVs  
+- EV Price Distribution  
+- Most Energy-Efficient EVs  
+- EV Growth Trend  
+- Full EV Data Table  
 
 ## 🛠️ Tech Stack
 - **React.js** – Frontend framework
